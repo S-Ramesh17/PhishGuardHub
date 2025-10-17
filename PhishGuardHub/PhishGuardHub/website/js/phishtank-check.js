@@ -1,1 +1,0 @@
-async function checkPhishTank(url){ return { listed:false }; }
